@@ -5,7 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int i=0,j=7,n;
-		System.out.print("«Î ‰»Î£∫");
+		System.out.print("«Î ‰»Î£∫");//ss
 		n= in.nextInt();
 		
 		while(i<n){
